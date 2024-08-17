@@ -1,0 +1,25 @@
+Question: None
+RAG Response: None
+GraphRAG Response: None
+User Feedback: B is better
+
+Question: None
+RAG Response: None
+GraphRAG Response: None
+User Feedback: A is better
+
+Question: None
+RAG Response: None
+GraphRAG Response: None
+User Feedback: B is better
+
+Question: None
+RAG Response: None
+GraphRAG Response: None
+User Feedback: B is better
+
+Question: None
+RAG Response: None
+GraphRAG Response: None
+User Feedback: A is better
+
